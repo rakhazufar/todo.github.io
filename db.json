@@ -1,0 +1,9 @@
+{
+  "tasks": [{
+    "id": 1,
+    "text": "Sekolah",
+    "day": "20 Agustus 2000",
+    "reminder": true
+  }
+  ]
+}
